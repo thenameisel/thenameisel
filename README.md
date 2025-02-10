@@ -1,4 +1,7 @@
-## Hi there 👋
+# <div align="center">Greetings! The name is El!</div>
+<div align="center">
+  <strong><code>Programmer, IT Person, Developer, and coffee addict!</code></strong>
+</div>
 
 <!--
 **thenameisel/thenameisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
