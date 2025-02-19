@@ -20,7 +20,7 @@ But the important part is I'm a tenacious fool, who loves to continually learn a
 
 <div><br></div>
 
-<divalign="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
+<div align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
