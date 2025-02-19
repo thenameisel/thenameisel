@@ -2,9 +2,9 @@
 <div align="center">
   <strong><code>Programmer, IT Person, Developer, and coffee addict!</code></strong>
 </div>
+<div><br></div>
 
-
-<div align="center">Currently looking for work!</div>div>
+<div align="center">Currently looking for work!</div>
 
 <!--
 **thenameisel/thenameisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
