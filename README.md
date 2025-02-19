@@ -17,14 +17,14 @@ But the important part is I'm a tenacious fool, who loves to continually learn a
 <div><br><br></div>
 
 <div align="center"><code>Current code fixations!</code></div>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
+<div><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Web" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/></div>
 <!--
 **thenameisel/thenameisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
