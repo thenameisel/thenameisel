@@ -25,7 +25,7 @@ But the important part is I'm a tenacious fool, who loves to continually learn a
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
-<img src="https://img.icons8.com/ios-filled/50/0000FF/globe.png" alt="Web" width="40" height="40"/>
+<img src="https://img.icons8.com/ios-filled/50/3c87d6/globe.png" alt="Web" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/></div>
 <!--
